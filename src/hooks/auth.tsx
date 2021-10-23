@@ -77,7 +77,7 @@ function AuthProvider({ children }: AuthProviderProps) {
       const authSessionResponse = await AuthSessions.startAsync({ authUrl }) as AuthorizationResponse
 
       if (authSessionResponse.type === 'success' && authSessionResponse.params.error !== 'access_denied') {
-        const authData = await api.post('/authenticate', {
+        const authData = await api.post('/mobileAuthenticate', {
           code: authSessionResponse.params.code
         })
 
