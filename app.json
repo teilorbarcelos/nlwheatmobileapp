@@ -3,6 +3,7 @@
     "name": "nlwheatmobileapp",
     "slug": "nlwheatmobileapp",
     "version": "1.0.0",
+    "scheme": "nlwheatmobileapp",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {

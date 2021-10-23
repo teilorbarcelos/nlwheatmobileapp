@@ -1,0 +1,2 @@
+export const CLIENT_ID = 'qwe97qwe987q98w7e'
+export const API_URL = 'https://apiaddress.com'
