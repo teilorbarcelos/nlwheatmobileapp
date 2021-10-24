@@ -1,4 +1,4 @@
-<div style="display: flex; gap: 3rem;">
+<div style="display: flex; align-items: center;">
 <!-- ![Printscreen1 of the project](/.github/screen1.jpg){:height="100%" width="100%"} -->
 <img src="/.github/screen1.jpg" width="45%" height="45%">
 
