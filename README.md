@@ -1,8 +1,8 @@
 <!-- ![Printscreen1 of the project](/.github/screen1.jpg){:height="100%" width="100%"} -->
-<img src="/.github/screen1.jpg" width="100%" height="100%">
+<img src="/.github/screen1.jpg">
 
 <!-- ![Printscreen2 of the project](/.github/screen2.jpg){:height="100%" width="100%"} -->
-<img src="/.github/screen2.jpg" width="100%" height="100%">
+<img src="/.github/screen2.jpg">
  
 ## NLWHeatDoWhile
  
