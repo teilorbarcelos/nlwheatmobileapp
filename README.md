@@ -1,9 +1,9 @@
 <div style="display: flex;">
 <!-- ![Printscreen1 of the project](/.github/screen1.jpg){:height="100%" width="100%"} -->
-<img src="/.github/screen1.jpg" width="50%" height="50%">
+<img src="/.github/screen1.jpg" width="45%" height="45%">
 
 <!-- ![Printscreen2 of the project](/.github/screen2.jpg){:height="100%" width="100%"} -->
-<img src="/.github/screen2.jpg" width="50%" height="50%">
+<img src="/.github/screen2.jpg" width="45%" height="45%">
 <div>
  
 ## NLWHeatDoWhile
