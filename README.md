@@ -1,6 +1,6 @@
-![Printscreen1 of the project](/.github/screen1.jpg)
+![Printscreen1 of the project](/.github/screen1.jpg){:height="100%" width="100%"}
 
-![Printscreen2 of the project](/.github/screen2.jpg)
+![Printscreen2 of the project](/.github/screen2.jpg){:height="100%" width="100%"}
  
 ## NLWHeatDoWhile
  
