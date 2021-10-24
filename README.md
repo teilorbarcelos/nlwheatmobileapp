@@ -1,6 +1,6 @@
-![Printscreen1 of the project](/.github/screen1.png)
+![Printscreen1 of the project](/.github/screen1.jpg)
 
-![Printscreen2 of the project](/.github/screen2.png)
+![Printscreen2 of the project](/.github/screen2.jpg)
  
 ## NLWHeatDoWhile
  
